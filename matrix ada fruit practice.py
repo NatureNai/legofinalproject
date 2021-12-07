@@ -27,3 +27,5 @@ while True:
     else:
         row = col = 0
         matrix.fill(0)
+        
+        #https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/main/Matrix_7-Segment_LED_Backpack_Raspberry_Pi/matrix8x8_test/code.py
