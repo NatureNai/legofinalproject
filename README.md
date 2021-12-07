@@ -21,7 +21,7 @@ I reached out to mentors and continously asked questions.
 
 This is a great artificial intelligence exercise.
 What is next for me includes finding a program that will support TensorFlow so that I can teach the machine learning raspberry pi cameras
-to detect my face. I want to help destroy the narrative that AI cannot detect faces of people of color that well.
+to detect my face. I want to help destroy the narrative that AI facial recognition cannot detect faces of people of color that well.
 
 I sincerely enjoy this project and will continue to work on it in my spare time. This is work is what I am passionate about. Thank you for this opportunity.
 
