@@ -23,9 +23,11 @@ This is a great artificial intelligence exercise.
 What is next for me includes finding a program that will support TensorFlow so that I can teach the machine learning raspberry pi cameras
 to detect my face. I want to help destroy the narrative that AI cannot detect faces of people of color that well.
 
+I sincerely enjoy this project and will continue to work on it in my spare time. This is work is what I am passionate about. Thank you for this opportunity.
+
 Please navigate to https://github.com/NatureNai/legofinalproject/blob/main/DiaryRobotFace for the link to my personal diary regarding this project and more personal thoughts I endured and will continue to endure.
 
-
+P.S. I shamelessly used this project to help with my camera shyness. As I continue with more projects in the future I hope that you take notice of my growth.
 
 I learned how to:
 - Use the Raspberry Pi camera to look for objects
