@@ -8,10 +8,23 @@ As a mother it is absolutely beautiful to see how my child uses her imagination 
 My child also reminds me that, even as an adult, the best way to learn is through play. 
 That is the reason I chose to work on this project.
 
-I remained resilient and found household items to replace tools I did not have. Because of this I created the start of my own build kit and workshop. I plan to keep building toys to expand on my knowledge base of machine learning.
+I remained resilient and found household items to replace tools I did not have. 
+Because of this, I created the start of my own build kit and workshop.
+I am starting from scratch and starting earlier than I thought I would.
+
+I learned to solder and to use and build hardware.
+I plan to keep building toys to expand on my knowledge base of machine learning.
+I am passionate about this field and I know that I will build amazing things in the future.
 
 I researched different codes to test when troubleshooting.
 I reached out to mentors and continously asked questions.
+
+This is a great artificial intelligence exercise.
+What is next for me includes finding a program that will support TensorFlow so that I can teach the machine learning raspberry pi cameras
+to detect my face. I want to help destroy the narrative that AI cannot detect faces of people of color that well.
+
+Please navigate to https://github.com/NatureNai/legofinalproject/blob/main/DiaryRobotFace for the link to my personal diary regarding this project and more personal thoughts I endured and will continue to endure.
+
 
 
 I learned how to:
