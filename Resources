@@ -1,0 +1,8 @@
+https://projects.raspberrypi.org/en/projects/lego-robot-face/0 (project)
+
+https://www.tensorflow.org/lite/guide (machine learning file ie how camera is recognizing objects)
+- https://www.tensorflow.org/lite/convert/metadata
+- https://www.tensorflow.org/lite/examples/image_classification/overview
+- https://www.tensorflow.org/lite/tutorials/model_maker_image_classification ( How to create my own range of identifiable objects)
+
+https://github.com/raspberrypilearning/lego-robot-face (Resources from those who came before me)
